@@ -1,6 +1,34 @@
 {
   "products": [
-    {"productName":"Gloves","price":732,"isAvaliable":false},{"productName":"Cheese","price":699,"isAvaliable":true},{"productName":"Pizza","price":733,"isAvaliable":false},{"productName":"Table","price":37,"isAvaliable":false},{"productName":"Chicken","price":297,"isAvaliable":false},{"productName":"Chicken","price":947,"isAvaliable":true},{"productName":"Pizza","price":106,"isAvaliable":true},{"productName":"Tuna","price":809,"isAvaliable":true},{"productName":"Tuna","price":636,"isAvaliable":false},{"productName":"Pizza","price":427,"isAvaliable":true},{"productName":"Towels","price":992,"isAvaliable":true},{"productName":"Keyboard","price":507,"isAvaliable":false},{"productName":"Soap","price":759,"isAvaliable":false},{"productName":"Chips","price":415,"isAvaliable":true},{"productName":"Computer","price":599,"isAvaliable":false},{"productName":"Chair","price":701,"isAvaliable":false},{"productName":"Shirt","price":204,"isAvaliable":false},{"productName":"Bike","price":740,"isAvaliable":true},{"productName":"Computer","price":897,"isAvaliable":false},{"productName":"Chicken","price":573,"isAvaliable":true},{"productName":"Mouse","price":819,"isAvaliable":false},{"productName":"Shirt","price":675,"isAvaliable":true},{"productName":"Mouse","price":621,"isAvaliable":false},{"productName":"Gloves","price":547,"isAvaliable":false},{"productName":"Pizza","price":264,"isAvaliable":true},{"productName":"Mouse","price":381,"isAvaliable":false},{"productName":"Shoes","price":839,"isAvaliable":false},{"productName":"Mouse","price":516,"isAvaliable":false},{"productName":"Towels","price":326,"isAvaliable":false}
+    {"id":"6b0bd4d9-7def-4882-bd41-eecfa47dd336","productName":"Bacon","price":175,"isAvailable":false},
+    {"id":"1a3f7e84-3c63-44b6-8dc0-03e9daa84a6d","productName":"Handmade Fresh Car","price":394,"isAvailable":true},
+    {"id":"d0fb852d-9d51-41b7-a6b9-c808857eb991","productName":"Gorgeous Concrete Ball","price":390,"isAvailable":true},
+    {"id":"e2a38af7-6414-4de5-b849-f0842c13b41b","productName":"Licensed Cotton Table","price":129,"isAvailable":true},
+    {"id":"5f865776-2b8d-4d4c-b709-bc73fc5f8f7f","productName":"Unbranded Concrete Cheese","price":224,"isAvailable":true},
+    {"id":"b19895a2-7fd0-4143-ba73-93b62b4dab67","productName":"Unbranded Bronze Sausages","price":29,"isAvailable":true},
+    {"id":"ddf21086-7365-46ec-8f31-79cd610ccb41","productName":"Gloves","price":361,"isAvailable":true},
+    {"id":"05ff60cc-714a-4472-91be-f9c92fa86fc4","productName":"Towels","price":483,"isAvailable":false},
+    {"id":"d9265aa0-196b-4031-b551-5bb9b2db1335","productName":"Table","price":161,"isAvailable":false},
+    {"id":"a804fbf3-b859-457c-b472-2c524f94d29a","productName":"Fantastic Fresh Soap","price":162,"isAvailable":true},
+    {"id":"b00f532f-cd23-4637-a0f8-df28305ee4a2","productName":"Electronic Granite Chicken","price":450,"isAvailable":false},
+    {"id":"50b169d2-f8b3-47e3-b32c-b144d5739e29","productName":"Cheese","price":266,"isAvailable":true},
+    {"id":"6fcdcfc8-f478-4f49-9212-b429b9dd1d84","productName":"Practical Soft Towels","price":78,"isAvailable":false},
+    {"id":"d0c6928f-da71-461f-a86b-0d697b584771","productName":"Car","price":137,"isAvailable":true},
+    {"id":"5963c768-d6da-40a1-802b-b9adcedf03b0","productName":"Recycled Rubber Car","price":145,"isAvailable":true},
+    {"id":"ebcf25ec-b636-44ba-8313-ed1d1acd9382","productName":"Chips","price":473,"isAvailable":true},
+    {"id":"2a220bb2-2afe-4465-af18-ac611176f13c","productName":"Small Cotton Pizza","price":52,"isAvailable":true},
+    {"id":"76fde92e-ee87-44f9-a904-ed5766d9aca3","productName":"Elegant Rubber Gloves","price":177,"isAvailable":true},
+    {"id":"341197f7-d65c-42e8-8406-307adbed1350","productName":"Recycled Concrete Pizza","price":357,"isAvailable":false},
+    {"id":"bfb3f315-3862-4d7a-8b6b-6a6fd039d0bf","productName":"Tasty Rubber Pizza","price":306,"isAvailable":true},
+    {"id":"0fee8db7-06c7-4026-8ca0-3298fe556448","productName":"Oriental Concrete Bike","price":219,"isAvailable":true},
+    {"id":"2cf7b6ad-8cad-4499-bce3-7ef5eba1d597","productName":"Sleek Frozen Bacon","price":269,"isAvailable":true},
+    {"id":"30304e26-ba85-439f-882e-b33fbb8fb4cc","productName":"Computer","price":85,"isAvailable":false},
+    {"id":"ed87ed17-598c-43fd-9451-713ffdc378f2","productName":"Modern Rubber Fish","price":469,"isAvailable":false},
+    {"id":"46e28f39-cb28-4972-92fd-7f4afd2a0536","productName":"Fantastic Plastic Mouse","price":6,"isAvailable":false},
+    {"id":"3b38f765-eb45-4904-8012-e2b029dbdc97","productName":"Ball","price":43,"isAvailable":false},
+    {"id":"a49fbc03-086d-4fa5-9cc2-6dc165e5e49f","productName":"Chair","price":282,"isAvailable":false},
+    {"id":"997f6abf-079b-4de3-a8b2-e03b243937d0","productName":"Oriental Granite Bacon","price":82,"isAvailable":false},
+    {"id":"9a34079a-06fe-42c6-b6c4-cd8011a23b2c","productName":"Chicken","price":165,"isAvailable":true}
   ]
   
 }
